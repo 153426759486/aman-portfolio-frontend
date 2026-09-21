@@ -111,7 +111,7 @@ function SmartContactManagerCaseStudy() {
 
               <div className="screenshot-image">
                 <img
-                  src="/images/smart-contact-manager/home.png"
+                  src="/images/SCM/Dashboard.png"
                   alt="Smart Contact Manager home page"
                 />
               </div>
@@ -142,7 +142,7 @@ function SmartContactManagerCaseStudy() {
 
               <div className="screenshot-image">
                 <img
-                  src="/images/smart-contact-manager/login.png"
+                  src="/images/SCM/login.png"
                   alt="Smart Contact Manager login page"
                 />
               </div>
