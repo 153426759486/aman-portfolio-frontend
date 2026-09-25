@@ -43,7 +43,7 @@ function Hero() {
           </a>
 
           <a
-            href="/resume.pdf"
+            href="/../Resume/AMAN_GAUR_Resume.pdf"
             className="secondary-btn"
             target="_blank"
             rel="noreferrer"
@@ -55,7 +55,7 @@ function Hero() {
         <div className="hero-socials">
 
           <a
-            href="https://github.com/YOUR_USERNAME"
+            href="https://github.com/153426759486"
             target="_blank"
             rel="noreferrer"
             aria-label="GitHub"
@@ -64,7 +64,7 @@ function Hero() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/YOUR_USERNAME"
+            href="https://www.linkedin.com/in/aman-gaur-2747251a1/"
             target="_blank"
             rel="noreferrer"
             aria-label="LinkedIn"
@@ -73,7 +73,7 @@ function Hero() {
           </a>
 
           <a
-            href="mailto:your-email@gmail.com"
+            href="mailto:gauraman411@gmail.com"
             aria-label="Email"
           >
             <FaEnvelope />

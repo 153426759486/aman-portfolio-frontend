@@ -13,7 +13,7 @@ function Projects() {
       description:
         "A full-stack e-commerce platform for pet products with seller management, REST APIs and a React frontend.",
       technologies: ["Java", "Spring Boot", "React", "MySQL"],
-      github: "https://github.com/YOUR_USERNAME/WoofCart",
+      github: "https://github.com/153426759486/WoofCart",
       caseStudy: "/projects/woofcart",
     },
 
@@ -25,7 +25,7 @@ function Projects() {
         "A contact management application with authentication, contact management and a clean web interface.",
       technologies: ["Java", "Spring Boot", "React", "MySQL"],
       github:
-        "https://github.com/YOUR_USERNAME/Smart-Contact-Manager",
+        "https://github.com/153426759486/Smart-Contact-Manager",
       caseStudy: "/projects/smart-contact-manager",
     },
 
